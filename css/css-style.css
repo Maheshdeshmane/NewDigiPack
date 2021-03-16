@@ -587,6 +587,10 @@ vertical-align: middle;}
 .ourClients .imgbox{ padding:10px;width: 100%;}
 .ourClients .owl-carousel .imgWrap{height:100px;background-color:#fff;padding:10px;}
 
+
+.kiran{background:#e05959; padding:50px 0;}
+.kiran .imgbox{ padding:10px;width: 100%;}
+.kiran .owl-carousel .imgWrap{height:100px;background-color:#fff;padding:10px;}
 .requestCallback{background-color:#222; color:#fff; padding:40px 0}
 .requestCallback .titleWithoutborder{color:#fff;}
 .requestCallback .titleWithoutborder em{color:#fff;}
