@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title></title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<link rel="canonical" href="">
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">    
+	<link href="https://fonts.googleapis.com/css?family=Arvo|Muli:300,400,600,700,900" rel="stylesheet"> 
+    <!-- CSS -->    
+    <link href="css/all.css" rel="stylesheet" type="text/css">   	
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+			<script src="https://www.google.com/recaptcha/api.js?render=6Le_1d8UAAAAAK6gt7sWyxlOFqAfju6uyLOnHrFe"></script>
+		<script>
+			grecaptcha.ready(function () {
+				grecaptcha.execute('6Le_1d8UAAAAAK6gt7sWyxlOFqAfju6uyLOnHrFe', { action: 'contact' }).then(function (token) {
+					var recaptchaResponse = document.getElementById('recaptchaResponse');
+					recaptchaResponse.value = token;
+				});
+			});
+		</script>		
+		
+	
+	
+	<meta property="og:title" content="">
+	<meta property="og:site_name" content="Newdigipack.com">
+	<meta property="og:url" content="">
+	<meta property="og:description" content="">
+	<meta property="og:type" content="article">
+	<meta property="og:image" content="">
+
+	<meta name="twitter:card" content="Summary">
+	<meta name="twitter:title" content="">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="">
+	<meta name="twitter:site" content="@newdigipackindia">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MCLCSCK');</script>
+<!-- End Google Tag Manager -->	
+</head>
+<body style="background-color:#f8f9f9;">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCLCSCK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header id="masthead" class="site-header">
+		<div class="container">
+		<div class="logoImg"><a href="index.html" rel="home"><img src="images/logo.png" alt="" title=""></a></div>
+		<div id="menubtn">Menu</div>
+		<div class="rightLinks">			
+			<a class="whatsapplink" href="https://api.whatsapp.com/send?phone=917767966109&text=Hello!%20I%20got%20reference%20from%20website%20newdigipack.com"><i class="fa fa-whatsapp"></i> <span class="tb"><small>WHATSAPP / CALL</small><br>+91 77679 66109</span></a>
+			<a href="mailto:info@newdigipack.com"><i class="fa fa-envelope-o"></i> <span class="tb"><small>EMAIL US</small><br>info@newdigipack.com</span></a>
+		</div>
+		
+		<div class="clear"></div>
+		
+		</div>
+		<div class="topMenu">
+				<nav id="cssmenu" class="main-navigation ">
+					<ul>
+						<li ><a href="index.html">Home</a></li>
+						<li><a href="company-profile.html">Company Profile</a></li>
+						<li><a href="services.html">Products & Services</a></li>
+						
+						<li><a href="contact-us.html">Contacts</a></li>
+						
+						<li><a href="/blog">Blog</a></li>
+					</ul>
+					<a href="enquiry.html" class="topEnquiryBtn"> Enquiry Now</a>
+				</nav><!-- #site-navigation -->	
+				
+			
+		</div>	
+	</header><!-- #masthead -->	    
+<div class="showMobile">
+	<a href="https://api.whatsapp.com/send?phone=917767966109&text=Hello!%20I%20got%20reference%20from%20website%20newdigipack.com" class="wtsapp"><i class="fa fa-whatsapp"></i></a>
+	<a href="mailto:info@newdigipack.com" class="addBorder"><i class="fa fa-envelope-o"></i></a>
+	<a href="enquiry.html" class="lastbtn">Inquiry Now</a>
+	<div class="clear"></div>
+</div><!-- Page Content -->
+<section class="pageTitle">
+	<h1>404 Page Not Found</h1>
+	
+</section>
+<section class="site-content">
+	<div class="container">
+	<div class="wrap404">
+		<i class="fa fa-frown-o"></i>
+		<h2>404</h2>
+		<h4>Page Not Found</h4>
+		<p>It looks like nothing was found at this location.</p>
+	</div>
+</div>
+</section>
+<section class="bottomCTA">
+	<div class="container">
+		<div class="colLeft">
+			<h2>Leading Supplier of Paper, Plastic and Non-Woven Print Products</h2>
+			<p>Finding the right product with desired quantity might bot be easy.</p>
+		</div>
+		<div class="colRight">
+			<a href="contact-us.html" class="btn-large btn-gradiant">Contact us</a>
+		</div>
+		<div class="clear"></div>		
+	</div>
+</section>
+
+<footer id="colophon" class="site-footer">
+	<div class="container">
+		<div class="col21 footerLeft">	
+			<div class="footerTitle">PRODUCTS CATEGORIES</div>
+			<ul class="displayInline mr100">
+ <li><a href="#">Pillow Pouch</a></li>
+ <li><a href="#">3 side seal Pouch</a></li>
+ <li><a href="#">Standy Pouch</a></li>
+ <li><a href="#">Zipper Pouch</a></li>
+ <li><a href="#">Window pouch</a></li>
+ <li><a href="#">Vacuumed pouch</a></li>
+ <li><a href="#">Frozen Poly Pouch</a></li>
+ <li><a href="#">Poly - Paper Pouch</a></li>
+</ul>
+
+		</div>
+		<div class="col22 footerRight">	
+			<div class="col21">
+				<div class="footerTitle">QUICK LINKS</div> 
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="company-profile.html">Company Profile</a></li>
+					<li><a href="services.html">Products & Services</a></li>
+					
+					
+					
+					<li><a href="contact-us.html">Contacts</a></li>
+					
+				</ul>
+				<div class="footerSocial">
+					<a href="https://www.facebook.com/newdigipackindiaindia/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+					<a href="https://twitter.com/newdigipackindia" target="_blank"><i class="fa fa-twitter-square"></i></a>
+					<a href="http://www.linkedin.com/pub/newdigipack7" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+				</div>
+			</div>
+			<div class="col22">
+				<div class="footerTitle">Contact Info</div> 
+				<div class="box">
+				  <p><i class="fa fa-map-marker" aria-hidden="true"></i></p>
+				  <div class="boxColumn"><span>K 309, Mega Center, Hadapsar, Pune 411013</span></div>
+				</div>
+				<div class="box">
+				  <p><i class="fa fa-phone" aria-hidden="true"></i></p>
+				  <div class="boxColumn">91 87881 24700</div>
+				</div>
+				<div class="box">
+				  <p><i class="fa fa-mobile" aria-hidden="true"></i></p>
+				  <div class="boxColumn">91 77679 66109</div>
+				</div>
+				
+				<div class="box">
+				  <p><i class="fa fa-envelope-o" aria-hidden="true"></i></p>
+					<div class="boxColumn">
+					<a href="mailto:info@newdigipack.com">info@newdigipack.com</a></div>
+				</div>
+				<div class="box">
+				  <p><i class="fa fa-globe" aria-hidden="true"></i></p>
+					<div class="boxColumn">
+					<a href="http://www.newdigipack.com">www.newdigipack.com</a></div>
+				</div>
+			</div>
+			<div class="clear"></div>
+			
+			
+		</div>
+		
+		
+		<div class="clear"></div>
+	</div>
+	
+	
+	<div class="copyRight"><div class="container">
+		<div class="left">Copyright © 2021 New Digi Pack Solutions. All Rights Reserved.</div>
+		
+		</div></div>
+</footer>
+<a href="#" id="back-to-top" title="Back to top" class=""><i class="fa  fa-arrow-up" aria-hidden="true"></i></a>
+<!-- Loading icon Div -->
+<div id="COVER" class="div_fullscreen" style="z-index:9998; display:none"></div>
+<div id="WAIT" class="redMediumBold" style="display:none; z-index:9999; position:fixed; background-color:#fff; width:100%; border:1px solid #09F; text-align:center; left:0; right:0; top:0; bottom:0;opacity:.9">
+<div class="loaderntxt" style="top:49%; left:48%; position:absolute;">
+   	<img src="images/wait.gif" alt="waiting" /><br /><br/>
+       <strong style="font-size:25px">Loading.....</strong><br/><br/><br/><br/>
+       </div>
+</div>
+<script>
+function show_spinner(){
+	jQuery("#WAIT,#COVER").toggle();
+}
+</script>
+<!-- jQuery -->    
+<script type='text/javascript' src='js/jquery/jquery.js'></script>
+<script type='text/javascript' src='js/cssmenumaker.js'></script>
+<script type='text/javascript' src='js/owl.carousel.js'></script>
+<script type='text/javascript' src='js/wow.min.js'></script>
+<script>new WOW().init();</script>
+<!-- fancybox for image popup -->
+<script type='text/javascript' src='js/jquery.fancybox-1.3.4.js'></script>
+<link rel="stylesheet" type="text/css" href="css/jquery.fancybox-1.3.4.css">
+<script type='text/javascript' src='js/custom.js'></script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987604608/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Start of StatCounter Code --> 
+<script type="text/javascript"> 
+var sc_project=6815124; 
+var sc_invisible=1; 
+var sc_security="95a81d05"; 
+</script> 
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script> 
+<noscript> 
+<div class="statcounter"><a title="godaddy web statistics" href="http://statcounter.com/godaddy_website_tonight/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/6815124/0/95a81d05/1/" alt="" /></a></div>
+</noscript> 
+<!-- End of StatCounter Code -->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?o5xzxlQreWtmCcoHNPPBMeQcTfLKYuUT';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+</body>
+</html>	
