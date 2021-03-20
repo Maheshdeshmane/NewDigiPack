@@ -2,15 +2,16 @@
 
 #Receive user input
 $email_address = $_POST['email'];
-$fullname = $_POST['fullname'];
+$firstname = $_POST['firstname'];
+$lastname = $_POST['lastname'];
 $phonenumber = $_POST['phone'];
-$productname = $_POST['product'];
+$txtmessage = $_POST['message'];
 
 
 #Send email
 $headers = "From: $email_address";
-$message = "Customer Name: $fullname <br> Email Address: $email_address<br> Phone number: $phonenumber <br> Intersted in: $productname";
-$sent = mail('info@newdigipack.com', 'Request to call back', $message, $headers);
+$message = "Customer Name: $firstname $lastname <br> Email Address: $email_address<br> Phone number: $phonenumber <br> Message: $txtmessage";
+$sent = mail('info@newdigipack.com', 'Contact Us', $message, $headers);
 
 #Thank user or notify them of a problem
 if ($sent) {
