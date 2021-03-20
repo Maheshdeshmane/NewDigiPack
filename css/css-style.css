@@ -168,7 +168,7 @@ body, button, input, select, optgroup, textarea {
     line-height: 1.5;
 }
 h1, h2, h3, h4, h5, h6 {
-    clear: both;
+    clear: both;    
 }
 p {
     margin-bottom: 1.5em;
@@ -254,6 +254,14 @@ img {
     height: auto;
     max-width: 100%;
 }
+
+.Clientimg {
+    height: 200px;
+    max-width: 100%;
+    margin: 5px;
+    padding: 5px;
+}
+
 figure {
     margin: 1em 0;
 }
@@ -388,6 +396,10 @@ embed, iframe, object {
 }
 .text-justify {
     text-align: justify;
+}
+.text-center {
+    text-align: center;
+    padding-bottom: 40px;
 }
 .textlink {
     color: #81B84D;
@@ -562,7 +574,7 @@ vertical-align: middle;}
 .homeCTA h3{color:#292929; font-size:20px; margin:10px 0; padding:0; transition:all ease-in-out 0.5s}
 .homeCTA a{color:#5a5858}
 .homeCTA p{font-size:14px; margin:0}
-.homeCTA a.owlpics:hover:after{transform:scale(1)}
+.homeCTA a.owlpics:hover:after{transform:scale(0)}
 .homeCTA .owlpics:hover img{opacity:1;}
 .homeCTA a:hover h3{color:#f15922}
 
