@@ -714,6 +714,8 @@ top: 4px; }
 .col-32{width:31.66%; display:inline-block; margin:0 2.5% 0 0; float:left;}
 .col-33{width:31.66%; display:inline-block; margin:0 0% 0 0; float:left;}
 
+.col-77{width:49%; display:inline-block; margin:0 2.5% 0 0; float:left;}
+.col-88{width:45%; display:inline-block; margin:0 2.5% 0 0; float:left;}
 
 .wpcf7-form p{margin:0 0 12px;}
 .wpcf7-recaptcha{margin:0 0 18px;}
