@@ -933,7 +933,7 @@ color:#fff;font-size: 20px;border-right:1px solid #ed5526; border-bottom:1px sol
 	.homeSlider .caption-wrap{top:30%; left:20px}
 	.homeSlider .caption-wrap h2{font-size:4vw;}
 	.homeSlider .owl-carousel .owl-item img.img2{width:25vw; right:13vw;}
-	.homeSlider .owl-carousel .owl-item img.img1{width:25vw;}
+	.homeSlider .owl-carousel .owl-item img.img1{width:50vw;}
 	
 }
 @media only screen and (max-width: 980px) {
